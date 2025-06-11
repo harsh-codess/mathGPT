@@ -1,5 +1,9 @@
 # MathsGPT - Text to Math Problem Solver
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Now-blue?style=for-the-badge)](https://mathgpt-harshcodess.streamlit.app/)
+
+> **🌐 [Try the Live Demo Here!](https://mathgpt-harshcodess.streamlit.app/)**
+
 A powerful AI-powered Streamlit application that solves mathematical problems and provides data search capabilities using Google Gemma 2 model via Groq API.
 
 ## 🌟 Features
@@ -13,11 +17,15 @@ A powerful AI-powered Streamlit application that solves mathematical problems an
 
 ## 🚀 Live Demo
 
-The application provides an intuitive interface where you can:
+**[🌐 Access the Live Application](https://mathgpt-harshcodess.streamlit.app/)**
+
+The application is deployed and ready to use! Simply visit the link above to:
 - Input mathematical word problems
 - Get step-by-step solutions
 - Access Wikipedia information for context
 - Receive detailed explanations in a conversational format
+
+*Note: You'll need to provide your own Groq API key when using the live demo.*
 
 ## 📋 Prerequisites
 
@@ -29,7 +37,7 @@ The application provides an intuitive interface where you can:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/MathsGPT.git
+git clone https://github.com/harsh-codess/MathsGPT.git
 cd MathsGPT
 ```
 
